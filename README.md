@@ -36,6 +36,10 @@
 - 🔗 **[Redux Clone](https://github.com/Siddharth-Shukla-2244/Redux-Clone)** — A clone of Redux architecture and state management from scratch.  
   🌐 **Live:** [siddharth-shukla-2244.github.io/Redux-Clone](https://siddharth-shukla-2244.github.io/Redux-Clone)
 
+  🔗 **Filer - Book Recommendation App** — A responsive Flask app to search and filter books.  
+🌐 Live: [https://filer-book-5.onrender.com](https://filer-book-5.onrender.com)  
+📦 Source: [GitHub Repo](https://github.com/Siddharth-Shukla-2244/filer-book)
+
 - 🔗 **[Portfolio Site](https://github.com/Siddharth-Shukla-2244)** — Personal portfolio showcasing skills, experience, and projects.
 
 - 🔗 **[Other Projects](https://github.com/Siddharth-Shukla-2244?tab=repositories)** — Explore more on my GitHub.
