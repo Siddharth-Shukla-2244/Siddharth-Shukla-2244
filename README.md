@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi there, I'm Siddharth Shukla — Full Stack Python Developer
 
-<!--
-**Siddharth-Shukla-2244/Siddharth-Shukla-2244** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Passionate about building scalable web applications and solving real-world problems with elegant code.  
+💼 Full Stack Developer specializing in **Python**, **Django**, **FastAPI**, **React**, and **MYSQL**.  
+🚀 Always learning, experimenting, and building!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+**Backend:**
+- Python | Django | FastAPI | Flask
+- REST APIs | GraphQL
+- PostgreSQL | MySQL | MongoDB
+- Celery | Redis | Docker
+
+**Frontend:**
+- React.js  | HTML5 | CSS3 | Tailwind CSS 
+- JavaScript  | Redux
+
+**Tools & DevOps:**
+- Git | GitHub 
+- VSCode |  Linux
+
+---
+
+## 📈 GitHub Stats
+
+![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siddharth-Shukla-2244&show_icons=true&theme=radical&hide=prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth-Shukla-2244&layout=compact&theme=radical)
+
+---
+
+## 🧰 Recent Projects
+
+- 🔗 **[Redux Clone](https://github.com/Siddharth-Shukla-2244/Redux-Clone)** — A clone of Redux architecture and state management from scratch.  
+  🌐 **Live:** [siddharth-shukla-2244.github.io/Redux-Clone](https://siddharth-shukla-2244.github.io/Redux-Clone)
+
+- 🔗 **[Portfolio Site](https://github.com/Siddharth-Shukla-2244)** — Personal portfolio showcasing skills, experience, and projects.
+
+- 🔗 **[Other Projects](https://github.com/Siddharth-Shukla-2244?tab=repositories)** — Explore more on my GitHub.
+
+---
+
+## 📬 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/siddharth-shukla-a21407290)
+- [Email](mailto:shuklasiddharth2244@gmail.com)
+
+---
+
+> “Code never lies, comments sometimes do.” – Ron Jeffries
