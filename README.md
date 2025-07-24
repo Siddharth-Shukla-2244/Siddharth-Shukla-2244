@@ -40,6 +40,12 @@
 🌐 Live: [https://filer-book-5.onrender.com](https://filer-book-5.onrender.com)  
 📦 Source: [GitHub Repo](https://github.com/Siddharth-Shukla-2244/filer-book)
 
+🔗 Live Project Link
+Microsoft Homepage Clone
+🌐 https://siddharth-shukla-2244.github.io/Microsoft-Clone/
+
+
+
 - 🔗 **[Portfolio Site](https://github.com/Siddharth-Shukla-2244)** — Personal portfolio showcasing skills, experience, and projects.
 
 - 🔗 **[Other Projects](https://github.com/Siddharth-Shukla-2244?tab=repositories)** — Explore more on my GitHub.
