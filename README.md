@@ -9,14 +9,14 @@
 ## 🔧 Tech Stack
 
 **Backend:**
-- Python | Django | FastAPI | Flask
-- REST APIs | GraphQL
-- PostgreSQL | MySQL | MongoDB
-- Celery | Redis | Docker
+- Python | Django | 
+- REST APIs(learning) | PANDAS
+- ORACLE SQL | MySQL 
+- RENDER | Docker
 
 **Frontend:**
-- React.js  | HTML5 | CSS3 | Tailwind CSS 
-- JavaScript  | Redux
+-  HTML5 | CSS3 | Tailwind CSS 
+- JavaScript  | 
 
 **Tools & DevOps:**
 - Git | GitHub 
