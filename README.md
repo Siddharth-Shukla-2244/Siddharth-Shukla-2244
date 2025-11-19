@@ -1,7 +1,7 @@
-# 👋 Hi there, I'm Siddharth Shukla — Full Stack Python Developer
+# 👋 Hi there, I'm Siddharth Shukla —  Python Developer
 
 🌐 Passionate about building scalable web applications and solving real-world problems with elegant code.  
-💼 Full Stack Developer specializing in **Python**, **Django**, **FastAPI**, **React**, and **MYSQL**.  
+💼 Full Stack Developer specializing in **Python**, **Django**, **REST API**, **React**, and **MYSQL**.  
 🚀 Always learning, experimenting, and building!
 
 ---
